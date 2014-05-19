@@ -1,0 +1,200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"salt",
+				"salt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeandubearnes/htdocs/stylyst-git/wp-content/plugins/coach/coach.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/wp-content/themes/coach/signup.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/index.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/js/forms-secure.js",
+		"/Users/jeandubearnes/htdocs/stylyst-git/js/sha512.js",
+		"/Users/jeandubearnes/htdocs/stylyst-git/register.inc.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/register.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/logout.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/process_login.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/signup_submit.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/profil.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/register_success.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/functions.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/login.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/error.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/js/forms.js",
+		"/Users/jeandubearnes/htdocs/stylyst-git/signup.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/minutes.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/config.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/process.php",
+		"/Users/jeandubearnes/htdocs/stylyst-git/minutes.html",
+		"/Users/jeandubearnes/htdocs/stylyst-git/js/minutes.js",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/index.php",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/login.php",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/signup.php",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/js/save.js",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/js/ajax.js",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/js/forms.js",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/time.html",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/js/time.js",
+		"/Users/jeandubearnes/Google Drive/htdocs/stylyts/time.php",
+		"/Users/jeandubearnes/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jeandubearnes/bin/backup-all.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"formhash",
+			"includes",
+			"formhash",
+			"db_connect",
+			"forms"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "coach.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
